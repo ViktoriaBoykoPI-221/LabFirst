@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.4.33213.308
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "LabFirst", "LabFirst\LabFirst.csproj", "{13E7E305-94A2-4CE6-BFE3-61CE324BF1DB}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "EcheLabFirst", "EcheLabFirst\EcheLabFirst.csproj", "{AB199BA6-42EA-4B16-A3C6-2E3DB7C89CD4}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{13E7E305-94A2-4CE6-BFE3-61CE324BF1DB}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{13E7E305-94A2-4CE6-BFE3-61CE324BF1DB}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{13E7E305-94A2-4CE6-BFE3-61CE324BF1DB}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{13E7E305-94A2-4CE6-BFE3-61CE324BF1DB}.Release|Any CPU.Build.0 = Release|Any CPU
+		{AB199BA6-42EA-4B16-A3C6-2E3DB7C89CD4}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{AB199BA6-42EA-4B16-A3C6-2E3DB7C89CD4}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{AB199BA6-42EA-4B16-A3C6-2E3DB7C89CD4}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{AB199BA6-42EA-4B16-A3C6-2E3DB7C89CD4}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {ACB2D46E-A15C-43EC-A2EA-46B7BFEFDD08}
+	EndGlobalSection
+EndGlobal
